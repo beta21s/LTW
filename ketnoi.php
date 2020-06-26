@@ -9,3 +9,4 @@
     if($ketnoi->connect_error == true){
         echo "Kết nối không thành công";
     }
+# Thêm dòng này!
